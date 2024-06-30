@@ -1,0 +1,2 @@
+# core
+general app code
