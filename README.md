@@ -1,2 +1,4 @@
 # core
-general app code
+general app code for go apps
+
+# structure
